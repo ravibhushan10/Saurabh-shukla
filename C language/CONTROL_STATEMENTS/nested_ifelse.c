@@ -1,5 +1,7 @@
 // to find greatest among the three numbers using nested if else
 #include <stdio.h>
+#include <conio.h>
+
 int main()
 {
     int a,b,c;
@@ -44,6 +46,6 @@ int main()
     }
 
    
-
+getch();
 
 }
